@@ -2,7 +2,7 @@
  void setup()   
  {     
  	size(500,700);
- 	frameRate(120);
+ 	frameRate(115);
  	lily = new Bacteria[150];
  	for(int d = 0; d < lily.length; d++)
   	{
