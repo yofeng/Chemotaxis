@@ -1,4 +1,3 @@
- 
  Bacteria [] lily;
  void setup()   
  {     
