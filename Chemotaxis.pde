@@ -56,37 +56,3 @@
  	}
  
  }
-
- //class Jumper
- //{
-//int myX, myY;
- //Jumper()
- //{
- ////myX = 250;
- ////myY = 250;
- //}
- //void jump()
- //{
- ////myX = (int)(Math.random()*500);
- ////myY= (int)(Math.random()*500);
- //}
- //void show()
- //{
- ////fill(255,0,0);
- ////ellipse(myX, myY, 10, 10);
- //}
- //}
- //class Walker
- //{
- //int myX, myY;
- //Walker()
- //{
-////myX = 250;
- ////myY = 250;
- //}
- //void walk()
- //{
- ////myX = (int)(Math.random()*500);
- ////myY= (int)(Math.random()*500);
- //}
- //}    
